@@ -18,6 +18,7 @@ Este é um simples script em JavaScript que determina o nível de um herói com 
    cd nome-do-seu-repositorio
 
 4. **Execute o script com o seguinte comando:**
+   ```bash
     node index.js
 
 
